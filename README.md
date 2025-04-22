@@ -18,15 +18,6 @@ SQL querying, and data analysis, suitable for a data analytics portfolio.
 4. **Playlist Contents**: Shows songs in each playlist with their artists.
 5. **Average Streams per Genre**: Computes average streams for each genre.
 
-## Sample Output
-**Top 5 Most-Streamed Songs**:
-Title | Artist | Streams 
-Blinding Lights | The Weeknd | 2000000 
-One Dance | Drake | 1500000 
-Anti-Hero | Taylor Swift | 1200000 
-Hello | Adele | 1100000 
-Starboy | The Weeknd | 950000
-
 ## Future Enhancements
 - Add more data (e.g., user listening history).
 - Include advanced queries (e.g., window functions for ranking).
