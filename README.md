@@ -2,10 +2,8 @@
 
 ## Overview
 This project analyzes a music streaming dataset to uncover trends in song popularity, genre distribution,
-and artist performance. It uses SQLite to manage the database and includes SQL scripts for creating the schema, 
-inserting sample data, and performing analytical queries. This project showcases skills in database design,
-SQL querying, and data analysis, suitable for a data analytics portfolio.
-
+and artist performance. It uses SQL scripts for creating the schema, 
+inserting sample data, and performing analytical queries.
 ## Database Schema
 - **Artists**: Stores artist details (ArtistID, Name, Popularity).
 - **Songs**: Stores song details (SongID, Title, ArtistID, Genre, Streams, ReleaseDate).
@@ -17,8 +15,3 @@ SQL querying, and data analysis, suitable for a data analytics portfolio.
 3. **Artists with Multiple Top Songs**: Identifies artists with multiple songs in the top 10 by streams.
 4. **Playlist Contents**: Shows songs in each playlist with their artists.
 5. **Average Streams per Genre**: Computes average streams for each genre.
-
-## Future Enhancements
-- Add more data (e.g., user listening history).
-- Include advanced queries (e.g., window functions for ranking).
-- Integrate Python for visualizations.
